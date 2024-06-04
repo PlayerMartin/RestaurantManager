@@ -1,0 +1,1 @@
+Small SQL script for initializing a simple restaurant manager.
